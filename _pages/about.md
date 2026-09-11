@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Junteng Liu (刘俊腾), a first-year PhD candidate at the [HKUST NLP Group](https://hkust-nlp.github.io/), supervised by [Professor Junxian He](https://jxhe.github.io/). I graduated from Shanghai Jiao Tong University (SJTU) in June 2024, where I was also previously advised by Professor Junxian He during my undergraduate studies.
+I am Junteng Liu, a first-year PhD candidate at the HKUST NLP Group, supervised by Professor Junxian He. I graduated from Shanghai Jiao Tong University (SJTU) in June 2024, where I was also previously advised by Professor Junxian He during my undergraduate studies.
 
 My research focuses on natural language processing and machine learning. My research interests include:
 
@@ -33,21 +33,21 @@ Research Experience
 
 Publications
 ======
-(\* indicates equal contribution / corresponding author; I am the first author of the \* papers marked below)
+(The * papers below are first-author papers; I am a co-author on the others.)
 
 **2025**
 - **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond**
   **Junteng Liu**, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He
-  *Arxiv, 2025.* First author. Code: GitHub repository available.
+  *Arxiv, 2025.* First author. A GitHub code repository is available.
 
 - **On the Perception Bottleneck of VLMs for Chart Understanding**
   **Junteng Liu**, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He
-  *Arxiv, 2025.* First author. Code: GitHub repository (Vision4Chart).
+  *Arxiv, 2025.* First author. Code available at GitHub repository Vision4Chart.
 
 **2024**
 - **On the Universal Truthfulness Hyperplane Inside LLMs**
   **Junteng Liu**, Shiqi Chen, Yu Cheng, Junxian He
-  *EMNLP 2024.* First author. Code: GitHub repository (Universal_Truthfulness_Hyperplane).
+  *EMNLP 2024.* First author. Code available at GitHub repository Universal_Truthfulness_Hyperplane.
 
 - **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation**
   Shiqi Chen, Miao Xiong, **Junteng Liu**, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He
