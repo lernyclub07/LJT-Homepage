@@ -14,3 +14,11 @@ jobs:
         run: bundle install
       - name: Build site
         run: bundle exec jekyll build --trace
+      - name: Show publications page
+        run: cat _site/publications/index.html
+      - name: Show a publication page
+        run: cat _site/publication/synlogic/index.html || true
+      - name: Upload site
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
